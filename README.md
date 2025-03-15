@@ -5,5 +5,5 @@ This is my personal `.config` for [Karabainer-Elements](https://github.com/tekez
 ## Install
 
 ```bash
-git clone https://github.com/aviscasillas/karabiner.git ~/.config/karabiner
+git clone git@github.com:aviscasillas/karabiner.git ~/.config/karabiner
 ```
